@@ -3,7 +3,7 @@
 ## 安装方式
 
 ```shell
-pnpm create vite my-vue-app --template vite-maque
+pnpm create vite my-vue-app --template vite-maque-template
 ```
 
 ## 子项目内容
